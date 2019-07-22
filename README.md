@@ -1,16 +1,16 @@
 # DGGAN-for-MNIST-USING-KERAS
 Generative Adverserial Network (GAN) implementations using the Keras library
 
-#Code has 6 main blocks:
+Code has 6 main blocks:
 
-Load and Prepare dataset
+1. Load and Prepare dataset
 
-Generator
+2. Generator
 
-Discriminator
+3. Discriminator
 
-Generator/Discriminator loss
+4. Generator/Discriminator loss
 
-Optimizer
+5. Optimizer
 
-Train
+6. Train
